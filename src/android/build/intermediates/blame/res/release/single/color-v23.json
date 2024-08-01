@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/worker/Projects/ApponteMe/mobile/node_modules/react-native-sqlcipher-storage2/src/android/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/worker/.gradle/caches/transforms-2/files-2.1/a135d2b1453aea882a07212ea5ad3203/appcompat-1.0.2/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/worker/Projects/ApponteMe/mobile/node_modules/react-native-sqlcipher-storage2/src/android/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/home/worker/.gradle/caches/transforms-2/files-2.1/a135d2b1453aea882a07212ea5ad3203/appcompat-1.0.2/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/worker/Projects/ApponteMe/mobile/node_modules/react-native-sqlcipher-storage2/src/android/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/worker/.gradle/caches/transforms-2/files-2.1/a135d2b1453aea882a07212ea5ad3203/appcompat-1.0.2/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/worker/Projects/ApponteMe/mobile/node_modules/react-native-sqlcipher-storage2/src/android/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/home/worker/.gradle/caches/transforms-2/files-2.1/a135d2b1453aea882a07212ea5ad3203/appcompat-1.0.2/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/worker/Projects/ApponteMe/mobile/node_modules/react-native-sqlcipher-storage2/src/android/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/worker/.gradle/caches/transforms-2/files-2.1/a135d2b1453aea882a07212ea5ad3203/appcompat-1.0.2/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/worker/Projects/ApponteMe/mobile/node_modules/react-native-sqlcipher-storage2/src/android/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/worker/.gradle/caches/transforms-2/files-2.1/a135d2b1453aea882a07212ea5ad3203/appcompat-1.0.2/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/worker/Projects/ApponteMe/mobile/node_modules/react-native-sqlcipher-storage2/src/android/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/worker/.gradle/caches/transforms-2/files-2.1/a135d2b1453aea882a07212ea5ad3203/appcompat-1.0.2/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/worker/Projects/ApponteMe/mobile/node_modules/react-native-sqlcipher-storage2/src/android/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/home/worker/.gradle/caches/transforms-2/files-2.1/a135d2b1453aea882a07212ea5ad3203/appcompat-1.0.2/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/worker/Projects/ApponteMe/mobile/node_modules/react-native-sqlcipher-storage2/src/android/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/worker/.gradle/caches/transforms-2/files-2.1/a135d2b1453aea882a07212ea5ad3203/appcompat-1.0.2/res/color-v23/abc_tint_switch_track.xml"
+    }
+]

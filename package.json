@@ -1,0 +1,31 @@
+{
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emtudo/seu-repositorio.git"
+  },
+  "description": "SQLCipher bindings for React Native (Android & iOS)",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "keywords": [
+    "react-native-sqlcipher-storage2",
+    "react-native-sqlite",
+    "react-component",
+    "reactnative",
+    "react-native",
+    "sqlite",
+    "sqlite3",
+    "ios",
+    "android",
+    "promise",
+    "cordova-sqlcipher-adapter"
+  ],
+  "license": "MIT",
+  "main": "sqlite.js",
+  "name": "react-native-sqlcipher-storage2",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}

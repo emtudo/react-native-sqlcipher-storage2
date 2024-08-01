@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/worker/Projects/ApponteMe/mobile/node_modules/react-native-sqlcipher-storage2/src/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/worker/.gradle/caches/transforms-2/files-2.1/763ff10811a14104394f099bed199088/core-1.0.1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/worker/Projects/ApponteMe/mobile/node_modules/react-native-sqlcipher-storage2/src/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/worker/.gradle/caches/transforms-2/files-2.1/763ff10811a14104394f099bed199088/core-1.0.1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/worker/Projects/ApponteMe/mobile/node_modules/react-native-sqlcipher-storage2/src/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/worker/.gradle/caches/transforms-2/files-2.1/763ff10811a14104394f099bed199088/core-1.0.1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/worker/Projects/ApponteMe/mobile/node_modules/react-native-sqlcipher-storage2/src/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/worker/.gradle/caches/transforms-2/files-2.1/763ff10811a14104394f099bed199088/core-1.0.1/res/layout-v21/notification_action.xml"
+    }
+]
