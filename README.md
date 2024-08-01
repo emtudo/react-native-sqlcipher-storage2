@@ -101,7 +101,7 @@ project(':react-native-sqlcipher-storage2').projectDir = new File(rootProject.pr
 
 dependencies {
     ...
-    compile project(':react-native-sqlcipher-storage2')
+    implementation project(':react-native-sqlcipher-storage2')
 }
 ```
 
