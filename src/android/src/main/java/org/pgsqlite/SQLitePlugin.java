@@ -86,7 +86,7 @@ public class SQLitePlugin extends ReactContextBaseJavaModule {
         super(reactContext);
         this.context = reactContext.getApplicationContext();
         this.threadPool = Executors.newCachedThreadPool();
-        SQLiteDatabase.loadLibs(this.context);
+        SQLiteDatabase.loadLibs(this);
     }
 
     /**
@@ -407,7 +407,7 @@ public class SQLitePlugin extends ReactContextBaseJavaModule {
 
             Log.v("info", "Opening sqlite db: " + dbfile.getAbsolutePath());
 
-            SQLiteDatabase mydb = SQLiteDatabase.openOrCreateDatabase(dbfile.getAbsolutePath(), key, null);
+            SQLiteDatabase mydb = SQLiteDatabase.openOrCreateDatabase(databaseFile.getAbsolutePath(), key, null, hook, null);
 
             if (cbc != null) // needed for Android locking/closing workaround
                 cbc.success("database open");
