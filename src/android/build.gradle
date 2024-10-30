@@ -15,7 +15,7 @@ android {
     buildToolsVersion "23.0.1"
 
     defaultConfig {
-        minSdkVersion 16
+        minSdkVersion 21
         targetSdkVersion 22
         versionCode 1
         versionName "1.0"
@@ -31,6 +31,5 @@ repositories {
 
 dependencies {
     implementation 'com.facebook.react:react-native:0.14.+'
-    implementation 'net.zetetic:android-database-sqlcipher:4.5.4@aar'
-    implementation 'androidx.sqlite:sqlite:2.2.0'
+    implementation 'net.zetetic:android-database-sqlcipher:3.5.9@aar'
 }
